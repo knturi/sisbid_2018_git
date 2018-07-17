@@ -1,0 +1,12 @@
+---
+title: "README"
+author: "Kedir turi"
+date: "7/17/2018"
+output: html_document
+---
+
+what is this project about?
+
+this project is to illustrate how to assemble an anlysis on github in a way that improves the the odd that someone else will be able to reproduce the results.
+
+typically, for for a real project, I woiuld inser a dsicussion of my understanding of the project. 
