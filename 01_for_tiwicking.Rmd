@@ -1,0 +1,7 @@
+---
+title: "For_twicking"
+author: "Kedir turi"
+date: "7/17/2018"
+output: html_document
+---
+here is the twick on dev2
